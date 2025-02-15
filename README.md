@@ -15,12 +15,8 @@ PROBLEM STATEMENT
 Many people struggle with selecting appropriate outfits for different occasions, often facing uncertainty about how clothes will look on them before purchasing. This leads to wasted time, unsatisfactory purchases, and a lack of confidence in styling choices. Our solution provides a personalized, AI-driven experience that recommends occasion-appropriate outfits, visually previews them on the user, and simplifies the purchasing process, addressing this simple, but quite common fashion dilemma.
 
 Software Used:
-Gemini Open API
-Firebase Firestore
-TensorFlow
+Gemini Open API, Firebase Firestore, TensorFlow
 
 
 Languages:
-React.js
-JavaScript
-HTML + CSS
+React.js, JavaScript, HTML + CSS
